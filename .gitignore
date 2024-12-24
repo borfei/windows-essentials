@@ -1,0 +1,6 @@
+# UWP packages
+*.appx
+
+# Windows executables
+*.exe
+*.dll
