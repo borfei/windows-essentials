@@ -11,7 +11,7 @@ Set of tweaks to enhance your Windows experience!
 > UWP packages have been moved to the [`windows-essentials-uwp`](https://github.com/feivegian/windows-essentials-uwp) repository.
 
 ## Overview
-Windows Essentials (originally called **Useful Windows**) is a repository containing tweaks,
+**Windows Essentials** (originally called **Useful Windows**) is a repository containing tweaks,
 designed for improving Windows experience. Most notable tweaks include SSD optimizations, program restorations,
 and turning off annoying features. This is useful for users who want a clean Windows installation.
 
@@ -22,15 +22,15 @@ Each tweaks are stored into specified directories:
 - `powershell/`: PowerShell scripts (`.ps1`), involves disabling application prelaunch.
 
 ## FAQ
-- What is Useful Windows? Is it a previous iteration of Windows Essentials?
-> Correct. Windows Essentials used to be called **Useful Windows**. But due to certain user changes,
-> the author decided to delete their account including the original repository, luckily they had a local copy before the deletion.
-> The author eventually put the repository back under the name **Windows Essentials** with major changes.
-- If I were to use one of the tweaks, will it fix lag issues?
-> Certainly not, the purpose of this repository is to enhance/improve Windows experience,
-> there isn't any tweak that reduces CPU/RAM usage (except disk/filesystem performance)
-- Can I put my own tweaks here?
-> Yes, if the usage is to alter Windows experience.
+> What is Useful Windows? Is it a previous iteration of Windows Essentials?
+- Correct. Windows Essentials used to be called **Useful Windows**.
+    - But due to certain user changes, the author decided to delete their account including the original repository, luckily they had a local copy before the deletion.
+    - The author eventually put the repository back under the name **Windows Essentials** with major changes.
+> If I were to use one of the tweaks, will it fix lag issues?
+- Certainly not, the purpose of this repository is to enhance/improve Windows experience.
+- There isn't any tweak that reduces CPU/RAM usage (except disk/filesystem performance)
+> Can I put my own tweaks here?
+- Yes, if the usage is to alter Windows experience.
 
 ## License
 This repository is licensed under the Unlicense license, you can create an issue or make a pull request to have features changed. 
