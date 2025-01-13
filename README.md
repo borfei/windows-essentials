@@ -1,3 +1,5 @@
+![Windows Essentials Banner](docs/banner.png)
+
 # Windows Essentials
 Set of tweaks to enhance your Windows experience!
 
