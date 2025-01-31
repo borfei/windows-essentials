@@ -1,5 +1,7 @@
 ![Windows Essentials](docs/logo.png)
-===
+
+Windows Essentials
+---
 Set of tweaks to enhance your Windows experience!
 
 [Download Windows Essentials](https://github.com/feivegian/windows-essentials/archive/refs/heads/main.zip)
@@ -10,6 +12,12 @@ Set of tweaks to enhance your Windows experience!
 
 > [!IMPORTANT]
 > UWP packages have been moved to the [`windows-essentials-uwp`](https://github.com/feivegian/windows-essentials-uwp) repository.
+
+## Table of Contents
+- [Overview](#overview)
+- [Usage](#usage)
+- [FAQ](#faq)
+- [License](#license)
 
 ## Overview
 **Windows Essentials** (originally called **Useful Windows**) is a repository containing tweaks,
