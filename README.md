@@ -1,6 +1,8 @@
-![Windows Essentials Banner](docs/banner.png)
+<picture>
+  <img width="250px" alt="Windows Essentials" src="docs/logo.png">
+</picture>
 
-# Windows Essentials
+---
 Set of tweaks to enhance your Windows experience!
 
 [Download Windows Essentials](https://github.com/feivegian/windows-essentials/archive/refs/heads/main.zip)
