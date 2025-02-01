@@ -15,20 +15,11 @@ Set of tweaks to enhance your Windows experience!
 
 ## Table of Contents
 - [Overview](#overview)
-- [Usage](#usage)
 - [FAQ](#faq)
 - [License](#license)
 
 ## Overview
-**Windows Essentials** (originally called **Useful Windows**) is a repository containing tweaks,
-designed for improving Windows experience. Most notable tweaks include SSD optimizations, program restorations,
-and turning off annoying features. This is useful for users who want a clean Windows installation.
-
-## Usage
-Each tweaks are stored into specified directories:
-- `winreg/`: Registry files (`.reg`), involves disabling unnecessary Windows features such as Game Mode.
-- `batch/`: Windows Batch scripts (`.bat` or `.cmd`), involves SSD optimizations & disabling legacy filesystem features.
-- `powershell/`: PowerShell scripts (`.ps1`), involves disabling application prelaunch.
+This repository is dedicated to improving the Windows user experience by providing scripts, and registry files that enhance performance, customization, and usability. It aims to streamline common tasks, remove bloatware, and offer an optimized workflow for both casual users and power users.
 
 ## FAQ
 > What is Useful Windows? Is it a previous iteration of Windows Essentials?
